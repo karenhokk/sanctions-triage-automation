@@ -4,6 +4,8 @@ Python demo that scores synthetic customer names against a tiny dummy watchlist,
 
 Built as a portfolio proof of concept for AML / financial crime compliance automation — not a production screening system.
 
+It draws on work with banks and consulting firms on AML / financial crime compliance.
+
 ## Data privacy
 
 - All CSVs in this repo are **synthetic / dummy** data. No real customers, sanctioned persons, or bank transactions are included.
