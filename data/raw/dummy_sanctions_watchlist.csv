@@ -1,0 +1,6 @@
+watchlist_id,sanctioned_name,birth_year,nationality,listing_source
+W001,Mohammed Al-Rashid,1978,Syria,Dummy OFAC-style SDN list
+W002,Zhang Wei,1982,China,Dummy UN-style sanctions list
+W003,Maria Garcia Lopez,1990,Spain,Dummy HK screening list
+W004,Ahmed Hassan Ali,1975,Egypt,Dummy OFAC-style SDN list
+W005,Viktor Petrovich Orlov,1969,Belarus,Dummy UN-style sanctions list

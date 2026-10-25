@@ -1,0 +1,9 @@
+customer_id,customer_name,transaction_id,amount_hkd,transaction_date,birth_year,nationality
+C001,Mohammed Al Rasheed,T001,150000,2026-10-20,1978,Syria
+C002,Zhang Wey,T002,25000,2026-10-21,1982,China
+C003,Maria Gracia Lopez,T003,80000,2026-10-22,1990,Spain
+C004,Ahmed Hassan,T004,300000,2026-10-23,1975,Egypt
+C005,Li Ming,T005,12000,2026-10-24,1995,Hong Kong
+C006,Mohammed Rashid,T006,95000,2026-10-25,1980,UAE
+C007,Zhang Weiwei,T007,45000,2026-10-25,1982,China
+C008,Viktor Orlov,T008,220000,2026-10-25,1969,Belarus
